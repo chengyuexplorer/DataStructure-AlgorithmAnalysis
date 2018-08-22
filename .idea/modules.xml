@@ -3,17 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/01-Introduction/01-Introduction.iml" filepath="$PROJECT_DIR$/01-Introduction/01-Introduction.iml" />
-      <module fileurl="file://$PROJECT_DIR$/02-Array/02-AlgorithmAnalysis.iml" filepath="$PROJECT_DIR$/02-Array/02-AlgorithmAnalysis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/03-SimpleSort/03-Table-Stack-Queue.iml" filepath="$PROJECT_DIR$/03-SimpleSort/03-Table-Stack-Queue.iml" />
-      <module fileurl="file://$PROJECT_DIR$/04-Stack-Queue/04-Tree.iml" filepath="$PROJECT_DIR$/04-Stack-Queue/04-Tree.iml" />
-      <module fileurl="file://$PROJECT_DIR$/05-LinkedList/05-Hash.iml" filepath="$PROJECT_DIR$/05-LinkedList/05-Hash.iml" />
-      <module fileurl="file://$PROJECT_DIR$/06-Recursion/06-Heap.iml" filepath="$PROJECT_DIR$/06-Recursion/06-Heap.iml" />
-      <module fileurl="file://$PROJECT_DIR$/07-AdvancedSort/07-Sort.iml" filepath="$PROJECT_DIR$/07-AdvancedSort/07-Sort.iml" />
-      <module fileurl="file://$PROJECT_DIR$/08-BinaryTree/08-DisjointSetClass.iml" filepath="$PROJECT_DIR$/08-BinaryTree/08-DisjointSetClass.iml" />
-      <module fileurl="file://$PROJECT_DIR$/09-RedBlackTree/09-GraphTheoryAlgorithm.iml" filepath="$PROJECT_DIR$/09-RedBlackTree/09-GraphTheoryAlgorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/10-234Tree-ExternalStorage/10-AlgorithmicSkillDesign.iml" filepath="$PROJECT_DIR$/10-234Tree-ExternalStorage/10-AlgorithmicSkillDesign.iml" />
-      <module fileurl="file://$PROJECT_DIR$/11-HashTable/11-AmortizationAnalysis.iml" filepath="$PROJECT_DIR$/11-HashTable/11-AmortizationAnalysis.iml" />
-      <module fileurl="file://$PROJECT_DIR$/12-Heap/12-AdvancedDataStructure.iml" filepath="$PROJECT_DIR$/12-Heap/12-AdvancedDataStructure.iml" />
+      <module fileurl="file://D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\02-Array\02-AlgorithmAnalysis.iml" filepath="D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\02-Array\02-AlgorithmAnalysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Array/02-Array.iml" filepath="$PROJECT_DIR$/02-Array/02-Array.iml" />
+      <module fileurl="file://D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\03-SimpleSort\03-Table-Stack-Queue.iml" filepath="D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\03-SimpleSort\03-Table-Stack-Queue.iml" />
+      <module fileurl="file://D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\04-Stack-Queue\04-Tree.iml" filepath="D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\04-Stack-Queue\04-Tree.iml" />
+      <module fileurl="file://D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\05-LinkedList\05-Hash.iml" filepath="D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\05-LinkedList\05-Hash.iml" />
+      <module fileurl="file://D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\06-Recursion\06-Heap.iml" filepath="D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\06-Recursion\06-Heap.iml" />
+      <module fileurl="file://D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\07-AdvancedSort\07-Sort.iml" filepath="D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\07-AdvancedSort\07-Sort.iml" />
+      <module fileurl="file://D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\08-BinaryTree\08-DisjointSetClass.iml" filepath="D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\08-BinaryTree\08-DisjointSetClass.iml" />
+      <module fileurl="file://D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\09-RedBlackTree\09-GraphTheoryAlgorithm.iml" filepath="D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\09-RedBlackTree\09-GraphTheoryAlgorithm.iml" />
+      <module fileurl="file://D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\10-234Tree-ExternalStorage\10-AlgorithmicSkillDesign.iml" filepath="D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\10-234Tree-ExternalStorage\10-AlgorithmicSkillDesign.iml" />
+      <module fileurl="file://D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\11-HashTable\11-AmortizationAnalysis.iml" filepath="D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\11-HashTable\11-AmortizationAnalysis.iml" />
+      <module fileurl="file://D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\12-Heap\12-AdvancedDataStructure.iml" filepath="D:\4_Programer_workspace\1_Java_workspace\idea_workspace\DataStructure-AlgorithmAnalysis\12-Heap\12-AdvancedDataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/13-Graph/13-Graph.iml" filepath="$PROJECT_DIR$/13-Graph/13-Graph.iml" />
       <module fileurl="file://$PROJECT_DIR$/14-WeightGraph/14-WeightGraph.iml" filepath="$PROJECT_DIR$/14-WeightGraph/14-WeightGraph.iml" />
       <module fileurl="file://$PROJECT_DIR$/15-ApplicationOccasion/15-ApplicationOccasion.iml" filepath="$PROJECT_DIR$/15-ApplicationOccasion/15-ApplicationOccasion.iml" />
