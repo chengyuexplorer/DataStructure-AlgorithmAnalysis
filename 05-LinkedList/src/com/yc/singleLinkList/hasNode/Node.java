@@ -8,8 +8,8 @@ package com.yc.singleLinkList.hasNode;
  */
 public class Node {
 
-    Object element;// 数据域
-    Node next;// 指针域
+    public Object element;// 数据域
+    public Node next;// 指针域
     // 因为头结点是不包含数据的，因此它的构造方法与其它的不同
     // 头结点构造方法
     public Node(Node next){
