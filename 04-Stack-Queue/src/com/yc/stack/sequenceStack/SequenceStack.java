@@ -1,4 +1,6 @@
-package com.yc.stack;
+package com.yc.stack.sequenceStack;
+
+import com.yc.stack.Stack;
 
 /**
  * Created by yucheng on 2018/8/24.

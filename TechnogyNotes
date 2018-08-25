@@ -1,0 +1,34 @@
+**说明：**
+这个文件主要用来记录我在利用IDEA编程中，遇见的一些技术问题
+，以及我自己做的一些总结！
+#### 快捷键
+
+创建对象：
+前-->后：ctrl + alt + 空格
+后-->前：ctrl + alt + V``````
+
+向上空行：ctrl + alt + enter
+向下空行：shift + enter
+查找类：  ctrl + N
+向上移动：shift + alt + 向上键
+向下移动：shift + alt + 向下键
+
+生成array for代码块：itar
+生成Collection迭代 ：itco
+生成增强forxun：iter
+
+2.快速创建子类
+  先将光标定位到类名上，然后按Alt+Enter再选择
+3.快速创建main方法
+  psvm (public static void main)
+  
+####IDEA文件颜色显示：
+绿色，已经加入版本控制暂未提交；
+ 
+红色，未加入版本控制； 
+
+蓝色，加入版本控制，已提交，有改动； 
+
+白色，加入版本控制，已提交，无改动； 
+
+灰色：版本控制已忽略文件。

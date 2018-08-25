@@ -1,4 +1,6 @@
-package com.yc.stack;
+package com.yc.stack.sequenceStack;
+
+import com.yc.stack.sequenceStack.SequenceStack;
 
 import java.util.Scanner;
 
